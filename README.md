@@ -1,3 +1,4 @@
-#When we're ready to sing
-#We step up to the microphones
-#And it comes out something like this
+
+# When we're ready to sing
+# We step up to the microphones
+# And it comes out something like this
