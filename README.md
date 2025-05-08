@@ -1,2 +1,3 @@
-# Я абсолютно нормальный взрослый и здравый человек
-## Совсем не люблю делать глупости
+#When we're ready to sing
+#We step up to the microphones
+#And it comes out something like this
